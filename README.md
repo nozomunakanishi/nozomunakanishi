@@ -52,6 +52,3 @@ Curious by nature and always optimistic, I love bringing good energy into every 
 
 ![Nozomu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nozomunakanishi&show_icons=true&theme=tokyonight)  
 
----
-
-![snake gif](https://github.com/nozomunakanishi/nozomunakanishi/blob/output/snake.svg)
