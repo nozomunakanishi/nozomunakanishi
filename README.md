@@ -1,4 +1,4 @@
-Hello, my name is Nozomu 👋  
+# Hi! My name is Nozomu 👋  
 
 I started a new journey into the universe of data by completing my MSc in Data Analytics. Now I’m building projects to help data find its voice.  
 
